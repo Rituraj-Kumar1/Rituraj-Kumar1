@@ -13,42 +13,14 @@
 ## 📖 About Me
 I'm a third-year Bachelor of Technology student at the Indian Institute of Information Technology, Vadodara - International Campus, Diu. I'm passionate about building impactful software and exploring the world of MERN. Besides coding, I enjoy organizing events and being part of the Academics committee at my college.
 
-## 🛠 Tech Stack & Skills
+| **Category**         | **Items**                                                                                   |
+|----------------------|--------------------------------------------------------------------------------------------|
+| **Languages**        | C, C++, JavaScript (ES6+), HTML, CSS, JSON                                                |
+| **Frameworks**       | React.js, Node.js, Express.js                                                             |
+| **Technologies/Database** | Linux, Firebase, MongoDB, SQL, Mongoose, RESTful APIs, JWT                             |
+| **Developer Tools**  | VS Code, Git, GitHub, Postman, npm/yarn, Chrome DevTools                                  |
+| **Soft Skills**      | Communication, Team Collaboration, Adaptability                                           |
 
-### Languages
-- C
-- C++
-- JavaScript (ES6+)
-- HTML
-- CSS
-- JSON
-
-### Frameworks
-- React.js
-- Node.js
-- Express.js
-
-### Technologies/Database
-- Linux
-- Firebase
-- MongoDB
-- SQL
-- Mongoose
-- RESTful APIs
-- JWT
-
-### Developer Tools
-- VS Code
-- Git
-- GitHub
-- Postman
-- npm/yarn
-- Chrome DevTools
-
-### Soft Skills
-- Communication
-- Team Collaboration
-- Adaptability
 
 
 <!-- ## Featured Projects
