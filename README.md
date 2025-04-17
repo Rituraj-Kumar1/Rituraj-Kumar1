@@ -13,17 +13,43 @@
 ## 📖 About Me
 I'm a third-year Bachelor of Technology student at the Indian Institute of Information Technology, Vadodara - International Campus, Diu. I'm passionate about building impactful software and exploring the world of MERN. Besides coding, I enjoy organizing events and being part of the Academics committee at my college.
 
-## 🛠 Tech Stack & Skills Languages
- C, C++, JavaScript (ES6+), HTML, CSS, JSON
- Frameworks
- Technologies/Database
- Developer Tools
- Soft Skills
- PROJECTS
- React.js, Node.js, Express.js
- Linux, Firebase, MongoDB, SQL, Mongoose, RESTful APIs, JWT
- VS Code, Git, GitHub, VS Code, Postman, npm/yarn, Chrome DevTools
- Communication, Team Collaboration, Adaptability
+## 🛠 Tech Stack & Skills
+
+### Languages
+- C
+- C++
+- JavaScript (ES6+)
+- HTML
+- CSS
+- JSON
+
+### Frameworks
+- React.js
+- Node.js
+- Express.js
+
+### Technologies/Database
+- Linux
+- Firebase
+- MongoDB
+- SQL
+- Mongoose
+- RESTful APIs
+- JWT
+
+### Developer Tools
+- VS Code
+- Git
+- GitHub
+- Postman
+- npm/yarn
+- Chrome DevTools
+
+### Soft Skills
+- Communication
+- Team Collaboration
+- Adaptability
+
 
 <!-- ## Featured Projects
 ### [DiscussIt](https://github.com/nitinkoberoii/DiscussIt)
